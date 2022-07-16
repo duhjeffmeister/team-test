@@ -1,0 +1,23 @@
+{
+  "name": "team-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose __test__/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duhjeffmeister/team-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duhjeffmeister/team-test/issues"
+  },
+  "homepage": "https://github.com/duhjeffmeister/team-test#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.2"
+  }
+}
